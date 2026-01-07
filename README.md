@@ -14,11 +14,12 @@ Internship period: 18 December 2025-15 January 2026
 
 Mentor: Neela Santhosh Kumar 
 
-#Introduction
+Introduction
 
 An Interactive Quiz Application is a web-based application developed using JavaScript that allows users to answer questions and get instant feedback. It helps improve learning through interactive and engaging quizzes
 
 Objectives
+
 To design an interactive quiz using JavaScript
 To provide instant feedback to users
 To calculate and display scores dynamically
@@ -33,6 +34,7 @@ CSS – Styling and layout
 JavaScript – Logic, scoring, and interactivity
 
 Project Description
+
 The quiz application displays one question at a time with multiple options. When the user selects an answer, instant feedback is shown. The score is updated dynamically and the final score is displayed at the end of the quiz.
 
 output 
