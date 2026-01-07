@@ -1,18 +1,19 @@
 # INTERACTIVE-QUIZ-APPLICATION-
 
-Company Name: CodTech IT Solutions Private Limited 
+COMPANY NAME : CODTECH IT SOLUTIONS PRIVATE LIMITED 
 
-Name : Priyanka V 
+NAME : PRIYANKA V
 
-Intern ID : CTIS0623
+INTERN ID : CTIS0623
 
-Domain Name : Frontend web development 
+DOMAIN NAME : FRONTEND WEB DEVELOPMENT 
 
-Duration:4 weeks 
+DURATION :4 WEEKS 
 
-Internship period: 18 December 2025-15 January 2026
+INTERNSHIP PERIOD : 18 December 2025 - 15 January 2026
 
-Mentor: Neela Santhosh Kumar 
+MENTOR: NEELA SANTHOSH
+
 
 Introduction
 
