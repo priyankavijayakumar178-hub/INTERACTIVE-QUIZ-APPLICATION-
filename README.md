@@ -14,7 +14,8 @@ Internship period: 18 December 2025-15 January 2026
 
 Mentor: Neela Santhosh Kumar 
 
-Introduction
+#Introduction
+
 An Interactive Quiz Application is a web-based application developed using JavaScript that allows users to answer questions and get instant feedback. It helps improve learning through interactive and engaging quizzes
 
 Objectives
