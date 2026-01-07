@@ -34,3 +34,6 @@ JavaScript – Logic, scoring, and interactivity
 Project Description
 The quiz application displays one question at a time with multiple options. When the user selects an answer, instant feedback is shown. The score is updated dynamically and the final score is displayed at the end of the quiz.
 
+output 
+
+![Image](https://github.com/user-attachments/assets/2fea7f52-2d21-41cd-a81c-bdd4e457798d)
